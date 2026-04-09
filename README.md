@@ -19,28 +19,27 @@
 
 ## 🧰 Languages & Tools
 
-💻 **Technologies:**  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet)
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
 
-🖥️ **COBOL & Mainframe:**  
-![COBOL](https://img.shields.io/badge/COBOL-grey?style=for-the-badge)
-![JCL](https://img.shields.io/badge/JCL-darkgrey?style=for-the-badge)
-![IBM z/OS](https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge)
-![Mainframe](https://img.shields.io/badge/Mainframe-grey?style=for-the-badge)
+### 🖥️ COBOL & Mainframe
+<p align="left">
+  <img src="https://img.shields.io/badge/COBOL-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JCL-darkgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mainframe-grey?style=for-the-badge"/>
+</p>
 
 ---
 
