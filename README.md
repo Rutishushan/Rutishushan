@@ -16,7 +16,7 @@
 ---
 
 # Education
-🎓 2026 – COBOL-MF Boot Camp (BlueTech)  
+🎓 2026 – COBOL-MF Course (BlueTech)  
 COBOL | Business Logic | JCL & IBM z/OS
 
 🚀 2025 – FluentPath Project  
