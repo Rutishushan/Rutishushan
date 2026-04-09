@@ -1,8 +1,4 @@
-# Ruth Shushan | Software Developer
-
-📞 +972-54-8578747  
-📧 r0548578747@gmail.com  
-💻 GitHub: https://github.com/YOUR_USERNAME  
+# Hi, 👋 I'm Ruth Shushan 
 
 ---
 
