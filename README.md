@@ -15,8 +15,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 🧰 Languages & Tools
 
 <p align="left">
@@ -45,51 +43,32 @@
 
 ## 🎓 Education
 
-**2026 – COBOL-MF Boot Camp, BlueTech**  
-- COBOL development and business-oriented problem solving  
-- Experience with JCL and IBM z/OS  
+🎯 **2026 – COBOL-MF Boot Camp (BlueTech)**  
+💻 COBOL • 🧠 Business Logic • 🖥️ JCL & IBM z/OS  
 
-**2025 – FluentPath Project**  
-- Developed an innovative English-learning platform  
+🚀 **2025 – FluentPath Project**  
+🌐 Developed an innovative English-learning platform  
 
-**2023–2025 – Software Engineering (Fullstack & Embedded)**  
-- Diploma (Mahat)  
-- Advanced courses: Algorithms, Data Structures, OS, Graph Theory  
+🎓 **2023–2025 – Software Engineering (Full-Stack & Embedded)**  
+📜 Diploma (Mahat)  
+🧠 Algorithms • Data Structures • OS • Graph Theory  
 
 ---
 
 ## 🚀 Projects
 
-### 📌 FluentPath – English Learning Platform
-- Frontend development using React & TypeScript  
-- Drag & Drop Lesson Builder  
-- Content management, validation, and authentication  
-- Redux Toolkit, RTK Query, Lazy Loading  
+📌 **FluentPath – English Learning Platform**  
+⚛️ React + TypeScript • 🎯 Drag & Drop Builder  
+🔐 Auth • ✅ Validation • 🔄 Redux Toolkit • ⚡ Lazy Loading  
 
 ---
 
-### 📌 Pizza Management Web API
-- RESTful API using ASP.NET Core (.NET 8)  
-- JWT Authentication & Authorization  
-- Middleware and async programming  
-- Dependency Injection  
+📌 **Pizza Management Web API**  
+🌐 ASP.NET Core (.NET 8) • 🔐 JWT Auth  
+⚙️ Middleware • ⚡ Async • 🧩 Dependency Injection  
 
 ---
 
-### 📌 Image Processing System (C#)
-- Modular system using C#  
-- MVC architecture with Entity Framework Core  
-- Performance optimization and efficient data handling  
-
----
-
-## 💼 Experience
-
-**2026 – VISA CAL**  
-- Customer support in financial services  
-- Problem-solving and professional client communication  
-
----
-
-## 📫 Contact
-Feel free to reach out for opportunities or collaborations!
+📌 **Image Processing System (C#)**  
+🖼️ Modular C# System • 🏗️ MVC + EF Core  
+⚡ Performance Optimization • 📊 Efficient Data Handling  
