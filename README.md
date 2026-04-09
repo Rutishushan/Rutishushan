@@ -17,37 +17,30 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+## 🧰 Languages & Tools
+
+💻 **Technologies:**  
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![COBOL](https://img.shields.io/badge/COBOL-grey?style=for-the-badge)
-
-### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-
-### 🎨 Frontend
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-red?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-### 🧰 Tools & Systems
-![IBM](https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger)
+🖥️ **COBOL & Mainframe:**  
+![COBOL](https://img.shields.io/badge/COBOL-grey?style=for-the-badge)
+![JCL](https://img.shields.io/badge/JCL-darkgrey?style=for-the-badge)
+![IBM z/OS](https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge)
+![Mainframe](https://img.shields.io/badge/Mainframe-grey?style=for-the-badge)
 
 ---
 
