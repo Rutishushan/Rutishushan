@@ -6,10 +6,16 @@
 
 ---
 
-## 👩‍💻 About Me
-Software Developer with strong analytical thinking and fast self-learning abilities.  
-Experienced in developing complex projects, understanding existing codebases, and translating business requirements into practical solutions.  
-A team player with a strong sense of responsibility and a constant drive for professional excellence.
+## 🔍 About Me
+💻 COBOL Developer with training in enterprise systems and mainframe environments (IBM z/OS)  
+🧠 Strong analytical thinking with deep understanding of existing code and legacy systems  
+🧰 Experience in writing JCL and working in Mainframe (MF) environments  
+🏦 Background combining software development with financial domain knowledge  
+🌐 Full-Stack development experience (React, .NET Core, Web APIs)  
+🚀 Developed complex projects including real-world client platform (FluentPath)  
+💡 Fast self-learner with proven ability to master new technologies independently  
+👩‍💻 Team player with strong responsibility and commitment to high-quality results  
+💼 Looking for a junior position as COBOL / Backend / Full-Stack Developer  
 
 ---
 
