@@ -15,32 +15,6 @@
 
 ---
 
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</p>
-
-### 🖥️ COBOL & Mainframe
-<p align="left">
-  <img src="https://img.shields.io/badge/COBOL-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JCL-darkgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mainframe-grey?style=for-the-badge"/>
-</p>
-
----
-
 ## 🎓 Education
 
 🎯 **2026 – COBOL-MF Boot Camp (BlueTech)**  
@@ -72,3 +46,29 @@
 📌 **Image Processing System (C#)**  
 🖼️ Modular C# System • 🏗️ MVC + EF Core  
 ⚡ Performance Optimization • 📊 Efficient Data Handling  
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
+
+### 🖥️ COBOL & Mainframe
+<p align="left">
+  <img src="https://img.shields.io/badge/COBOL-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JCL-darkgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM_z/OS-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mainframe-grey?style=for-the-badge"/>
+</p>
+
+---
